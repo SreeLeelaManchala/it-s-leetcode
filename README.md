@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
