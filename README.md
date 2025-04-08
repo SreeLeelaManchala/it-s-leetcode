@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
