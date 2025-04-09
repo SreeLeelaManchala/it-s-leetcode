@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SreeLeelaManchala/it-s-leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
